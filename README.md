@@ -4,4 +4,4 @@ I have about 3 years of java programming experience, both from school coursework
 
 My computer science interests include information theory, machine learning, and the application of these into the medical and consumer markets. I also have interests in chemistry, physics, mathematics, and neuroscience, and believe that machine learning has the potential to play a crucial role in helping humans maintain healthy and happy lifestyles.
 
-I've stored most of my work in this github repository
+I store my work in this github repository

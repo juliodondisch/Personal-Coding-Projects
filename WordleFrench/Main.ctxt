@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=topWords
+comment1.target=Main(java.lang.String[])
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Main\n
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ topWords()
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment3.params=word
+comment3.target=double\ wordValue(java.lang.String)
+comment4.params=
+comment4.target=void\ freqList()
+comment5.params=character
+comment5.target=int\ characterIndex(java.lang.String)
+comment6.params=
+comment6.target=void\ resetWordListTwo()
+comment7.params=guess\ first\ second\ third\ fourth\ fifth
+comment7.target=void\ listNarrow(java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment8.params=
+comment8.target=java.lang.String[]\ getWordList()
+comment9.params=
+comment9.target=java.lang.String[]\ getTopWords()
+numComments=11
